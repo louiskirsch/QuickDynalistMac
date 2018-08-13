@@ -12,7 +12,7 @@ This repository contains two services
 
 Put your API key (from [https://dynalist.io/developer](https://dynalist.io/developer)) into your `.bashrc` file, e.g. using
 ```bash
-echo 'MY_KEY' >> ~/.bashrc
+echo "export DYNALIST_TOKEN='MY_KEY'" >> ~/.bashrc
 ```
 
 Put the workflow files in `~/Library/Services`, e.g. using
