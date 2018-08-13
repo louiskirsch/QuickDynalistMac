@@ -22,7 +22,7 @@ mv 'Add to Dynalist.workflow' QuickDynalist.workflow ~/Library/Services
 
 ## Usage
 
-After selecting any text you can find `Add to Dynalist` in the context menu (or setup a keyboard shortcut below).
+After selecting any text you can find `Add to Dynalist` in the context menu `Services > Add to Dynalist` (or setup a keyboard shortcut below).
 For the popup box a keyboard shortcut is required.
 
 ## Setup keyboard shortcuts
